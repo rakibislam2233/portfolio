@@ -23,7 +23,7 @@ export function ResumeHeader() {
     },
     { icon: Phone, text: "+8801319101179", href: "tel:+8801319101179" },
     { icon: MapPin, text: "Thakurgaon - Bangladesh", href: "#" },
-    { icon: Globe, text: "rakibali.dev", href: "https://rakibali.dev" },
+    { icon: Globe, text: "mdrakibali.dev", href: "https://mdrakibalidev.vercel.app/" },
   ];
 
   const socialLinks = [

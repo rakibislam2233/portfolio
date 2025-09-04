@@ -1,7 +1,5 @@
 "use client";
-
 import { Badge } from "@/components/ui/badge";
-import { Button } from "@/components/ui/button";
 import { motion } from "framer-motion";
 import { ChevronDown, ExternalLink, Monitor, Server } from "lucide-react";
 import { useState } from "react";
@@ -219,7 +217,7 @@ export function ResumeProjects() {
           >
             <div
               onClick={() => setShowAll(!showAll)}
-              className="w-60 mx-auto px-4 py-1.5 gap-2 rounded-md border flex justify-center items-center transition-all duration-300 bg-white dark:bg-black border-border dark:text-white cursor-pointer"
+              className="w-60 mx-auto px-4 py-1 gap-2 rounded-md border flex justify-center items-center transition-all duration-300 bg-white dark:bg-secondary border-border dark:text-white cursor-pointer"
             >
               {showAll ? "Show Less Projects" : "Load More Projects"}
               <ChevronDown
