@@ -7,7 +7,7 @@ const experiences = [
   {
     company: "Sparktech Agency",
     position: "Full-Stack Developer",
-    location: "Remote",
+    location: "Mohakhali, Dhaka, Bangladesh",
     duration: "July 2024 - October 2025",
     achievements: [
       "Developed and deployed 5+ full-stack applications and mobile backends on AWS and DigitalOcean",
@@ -33,7 +33,7 @@ const experiences = [
   {
     company: "Universe IT Institute (UITI)",
     position: "Frontend Developer",
-    location: "Remote",
+    location: "Aftabnagar, Dhaka, Bangladesh",
     duration: "October 2023 - May 2024",
     achievements: [
       "Delivered 10+ client projects using React.js, TypeScript, and modern frontend technologies",
