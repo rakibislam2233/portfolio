@@ -6,13 +6,13 @@ import { Globe } from "lucide-react";
 const languages = [
   {
     name: "English",
-    level: "Professional",
+    level: "Professional working proficiency",
     description: "Fluent in technical communication and documentation",
   },
   {
     name: "Bangla",
-    level: "Native",
-    description: "Mother tongue with excellent verbal and written skills",
+    level: "Native speaker",
+    description: "Excellent verbal and written communication skills",
   },
 ];
 

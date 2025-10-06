@@ -6,32 +6,32 @@ import { Award } from "lucide-react";
 
 const education = [
   {
-    degree: "Bachelor of Science in Computer Science",
+    degree: "B. Sc. in Computer Science and Engineering",
     institution: "Canadian University of Bangladesh",
     duration: "2025 - Present",
   },
   {
-    degree: "Diploma in Computer Technology",
+    degree: "Diploma in Engineering Computer Technology",
     institution: "Thakurgaon Polytechnic Institute",
     duration: "2020 - 2024",
     gpa: "3.51/4.0",
-    honors: ["Technical Excellence"],
+    honors: [],
   },
 ];
 
 const certifications = [
   {
-    name:"Next Level Web Development",
+    name: "Next Level Web Development Certificate",
     issuer: "Programming Hero",
     year: "2024",
   },
   {
-    name: "Web Application Project Showcase Contest 2023",
+    name: "Web Application Project Showcase Contest 2023 - Winner",
     issuer: "Programming Hero",
     year: "2023",
   },
   {
-    name: "Complete Web Development Course With Jhankar Mahbub",
+    name: "Complete Web Development Course Certification",
     issuer: "Programming Hero",
     year: "2023",
   }

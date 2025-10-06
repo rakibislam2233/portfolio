@@ -18,7 +18,7 @@ export default function Home() {
           <ThemeToggle />
         </div>
 
-        <div className="max-w-5xl mx-auto border border-border/50 print:shadow-none print:border-none print:bg-white rounded-2xl overflow-hidden print:rounded-none print:max-w-none print:mx-0">
+        <div className="max-w-5xl mx-auto border border-border/50 print:shadow-none print:border-none print:bg-white  overflow-hidden print:rounded-none print:max-w-none print:mx-0">
           <ResumeHeader />
           <ResumeSummary />
           <ResumeSkills />
