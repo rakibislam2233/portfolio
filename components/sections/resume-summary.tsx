@@ -11,14 +11,16 @@ export function ResumeSummary() {
         transition={{ duration: 0.6 }}
         viewport={{ once: true }}
       >
-        <h3 className="ttext-xl print:text-lg font-semibold text-foreground print:text-black flex items-center gap-2 mb-6 print:mb-4">
+        <h3 className="text-xl print:text-lg font-semibold text-foreground print:text-black flex items-center gap-2 mb-6 print:mb-4">
           Professional Summary
         </h3>
         <p className="text-muted-foreground print:text-black leading-relaxed print:text-sm">
-          Experienced Senior Full-Stack Developer with 5+ years of expertise in modern web technologies including React,
-          Node.js, and TypeScript. Proven track record of leading development teams, architecting scalable applications,
-          and delivering high-quality solutions that serve 10K+ daily active users. Passionate about mentoring junior
-          developers and implementing best practices in software development lifecycle.
+          Full-Stack Developer with 2 years of experience building scalable web applications using React.js, Next.js,
+          TypeScript, Node.js, and Express.js. Successfully developed and deployed 15+ full-stack applications and client
+          projects on AWS and DigitalOcean with expertise in MongoDB, PostgreSQL, and Redis databases. Proficient in
+          RESTful API development, real-time applications with Socket.io, payment integration with Stripe, and DevOps
+          practices including Docker and Nginx. Experienced in managing complete deployment
+          lifecycles while delivering high-quality solutions.
         </p>
       </motion.div>
     </section>
